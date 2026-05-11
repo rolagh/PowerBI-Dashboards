@@ -6,7 +6,7 @@ This project analyzes PlayStation games using Power BI. The dashboard focuses on
 ## Interactive Dashboard
 You can view the interactive Power BI dashboard here:
 
-[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjlkYzBjYjQtZjYxOC00MzI0LTliNmEtN2ZmNzRkZjM4OWM0IiwidCI6ImI0NTNkOTFiLTZhYzEtNGI2MS1iOGI4LTVlNjVlNDIyMjMzZiIsImMiOjl9)
+[View Interactive Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiNjlkYzBjYjQtZjYxOC00MzI0LTliNmEtN2ZmNzRkZjM4OWM0IiwidCI6ImI0NTNkOTFiLTZhYzEtNGI2MS1iOGI4LTVlNjVlNDIyMjMzZiIsImMiOjl9](https://app.powerbi.com/view?r=eyJrIjoiNjlkYzBjYjQtZjYxOC00MzI0LTliNmEtN2ZmNzRkZjM4OWM0IiwidCI6ImI0NTNkOTFiLTZhYzEtNGI2MS1iOGI4LTVlNjVlNDIyMjMzZiIsImMiOjl9&language=en-US))
 
 ## Tools Used
 - Power BI
